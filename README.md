@@ -1,2 +1,4 @@
-# leetcode_solutions
+# Leetcode Solutions
+
 Leetcode Problems and Solutions
+1) Two Sums
