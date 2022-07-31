@@ -7,3 +7,5 @@ Leetcode Problems and Solutions
 	1) Two Sums
 	2) Four Sum or Kth Sum
 	3) Plus One
+	4) Combination Sum
+	5) Trapping Rain Water
