@@ -2,7 +2,7 @@
 
 Leetcode Problems and Solutions
 
-##Array
+## Array
 
 	1) Two Sums
 	2) Four Sum or Kth Sum
