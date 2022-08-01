@@ -11,6 +11,7 @@ Notice that you may not slant the container.
 
 Example 1:
 
+![ContainerWater](https://user-images.githubusercontent.com/16731729/182057444-d671af14-a359-4d55-8f61-b017b9ed7f00.jpg)
 
 
     Input: height = [1,8,6,2,5,4,8,3,7]
