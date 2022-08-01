@@ -8,7 +8,7 @@ Return the minimum number of steps to walk from the upper left corner (0, 0) to 
 
 Example 1:
 
-
+![short1-grid](https://user-images.githubusercontent.com/16731729/182256914-844f0c63-0ad0-4dae-a74c-f44fd351a377.jpeg)
 
     Input: grid = [[0,0,0],[1,1,0],[0,0,0],[0,1,1],[0,0,0]], k = 1
     Output: 6
@@ -18,7 +18,7 @@ Example 1:
 
 Example 2:
 
-
+![1](https://user-images.githubusercontent.com/16731729/182256971-065cc831-e0dc-4647-964e-c7e16f832291.jpeg)
 
     Input: grid = [[0,1,1],[1,1,1],[1,0,0]], k = 1
     Output: -1
