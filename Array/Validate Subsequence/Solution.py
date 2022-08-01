@@ -2,7 +2,7 @@
 # Space Complexity: O(1)
 
 class Solution:
-    def isValidSubsequence(array:List[int], sequence:List[int]):
+    def isValidSubsequence(self, array:List[int], sequence:List[int]) -> bool:
         index = 0
 	    for value in array:
 		    if index == len(sequence):
