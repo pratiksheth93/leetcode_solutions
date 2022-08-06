@@ -9,6 +9,7 @@ Return true if it is possible to remove all 1's from grid using any number of op
  
 Example 1:
 
+![flips1](https://user-images.githubusercontent.com/16731729/183234589-225a8676-cd69-4478-abfc-a949de9a408c.png)
 
     Input: grid = [[0,1,0],[1,0,1],[0,1,0]]
     Output: true
@@ -18,11 +19,15 @@ Example 1:
     
 Example 2:
 
+![flips2](https://user-images.githubusercontent.com/16731729/183234591-91f3c9d9-490c-4602-b6d1-3fceceed9fd8.png)
+
     Input: grid = [[1,1,0],[0,0,0],[0,0,0]]
     Output: false
     Explanation: It is impossible to remove all 1's from grid.
 
 Example 3:
+
+![flips3](https://user-images.githubusercontent.com/16731729/183234601-9893efe7-71d8-4d31-b58f-5fcbabc4a851.png)
 
     Input: grid = [[0]]
     Output: true
