@@ -9,6 +9,7 @@ Return an integer array worklog of length n, where worklog[i] is the amount of n
  
 Example 1:
 
+![painted1](https://user-images.githubusercontent.com/16731729/183230754-30fa7ab6-90e6-4994-9671-054763ab97de.png)
 
     Input: paint = [[1,4],[4,7],[5,8]]
     Output: [3,3,1]
@@ -23,6 +24,7 @@ Example 1:
 
 Example 2:
 
+![painted2](https://user-images.githubusercontent.com/16731729/183230757-ebcd7a50-7dbd-4b97-bbc8-8ae4fc8d6964.png)
 
     Input: paint = [[1,4],[5,8],[4,7]]
     Output: [3,3,1]
@@ -37,6 +39,7 @@ Example 2:
 
 Example 3:
 
+![painted3](https://user-images.githubusercontent.com/16731729/183230765-070d2561-9b9e-43a9-b29b-807714f5b9bf.png)
 
     Input: paint = [[1,5],[2,4]]
     Output: [4,0]
