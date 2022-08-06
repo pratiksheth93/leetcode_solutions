@@ -20,6 +20,8 @@ A half-closed segment [a, b) is the section of the number line between points a 
 
 Example 1:
 
+![paint1](https://user-images.githubusercontent.com/16731729/183232364-0b75263a-299c-4a68-8fc8-f37970297850.png)
+
 
     Input: segments = [[1,4,5],[4,7,7],[1,7,9]]
     Output: [[1,4,14],[4,7,16]]
@@ -30,6 +32,7 @@ Example 1:
 
 Example 2:
 
+![paint2](https://user-images.githubusercontent.com/16731729/183232373-09610473-3053-4db6-b05a-eaa944089753.png)
 
     Input: segments = [[1,7,9],[6,8,15],[8,10,7]]
     Output: [[1,6,9],[6,7,24],[7,8,15],[8,10,7]]
@@ -42,6 +45,7 @@ Example 2:
 
 Example 3:
 
+![paint3](https://user-images.githubusercontent.com/16731729/183232378-2bcee9ca-dc73-44b5-a64f-135d5be89d55.png)
 
     Input: segments = [[1,4,5],[1,4,7],[4,7,1],[4,7,11]]
     Output: [[1,4,12],[4,7,12]]
