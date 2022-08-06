@@ -13,6 +13,7 @@ Example 1:
 
     Input: paint = [[1,4],[4,7],[5,8]]
     Output: [3,3,1]
+    
     Explanation:
     On day 0, paint everything between 1 and 4.
     The amount of new area painted on day 0 is 4 - 1 = 3.
@@ -28,6 +29,7 @@ Example 2:
 
     Input: paint = [[1,4],[5,8],[4,7]]
     Output: [3,3,1]
+    
     Explanation:
     On day 0, paint everything between 1 and 4.
     The amount of new area painted on day 0 is 4 - 1 = 3.
@@ -43,6 +45,7 @@ Example 3:
 
     Input: paint = [[1,5],[2,4]]
     Output: [4,0]
+    
     Explanation:
     On day 0, paint everything between 1 and 5.
     The amount of new area painted on day 0 is 5 - 1 = 4.
@@ -52,6 +55,6 @@ Example 3:
 
 Constraints:
 
-    1 <= paint.length <= 105
+    1 <= paint.length <= 10^5
     paint[i].length == 2
-    0 <= starti < endi <= 5 * 104
+    0 <= starti < endi <= 5 * 10^4
